@@ -37,6 +37,9 @@ jobs:
           cache: npm
           cache-dependency-path: site/package-lock.json
 
+      - name: Use the lockfile-compatible npm version
+        run: npm install --global npm@11.6.2
+
       - name: Install locked dependencies
         run: npm ci
 
