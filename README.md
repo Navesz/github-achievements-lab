@@ -3,6 +3,20 @@
 Laboratório público para aprender os fluxos de colaboração do GitHub e
 acompanhar conquistas de perfil sem gerar spam.
 
+## Constellation
+
+O laboratório agora inclui a **Constellation**, uma aplicação web que transforma
+os sinais públicos de um perfil do GitHub em um mapa visual de conquistas,
+marcos e próximas ações legítimas.
+
+- interface responsiva em português;
+- auditoria de qualquer perfil público;
+- progresso calculado para conquistas com níveis;
+- API própria com cache e tratamento de limites do GitHub;
+- testes de renderização, tipagem e segurança de dependências.
+
+O código da aplicação está em [`site/`](site/).
+
 ## Objetivos
 
 - praticar issues, pull requests, revisões e coautoria;
