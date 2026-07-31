@@ -5,17 +5,10 @@ acompanhar conquistas de perfil sem gerar spam.
 
 ## Constellation
 
-O laboratório agora inclui a **Constellation**, uma aplicação web que transforma
-os sinais públicos de um perfil do GitHub em um mapa visual de conquistas,
-marcos e próximas ações legítimas.
-
-- interface responsiva em português;
-- auditoria de qualquer perfil público;
-- progresso calculado para conquistas com níveis;
-- API própria com cache e tratamento de limites do GitHub;
-- testes de renderização, tipagem e segurança de dependências.
-
-O código da aplicação está em [`site/`](site/).
+A aplicação **Constellation** nasceu neste laboratório e agora evolui em seu
+próprio repositório: [`Navesz/constellation`](https://github.com/Navesz/constellation).
+O histórico do produto foi preservado na extração; este repositório permanece
+focado nos experimentos e na documentação sobre conquistas do GitHub.
 
 ## Objetivos
 
